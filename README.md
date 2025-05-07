@@ -17,7 +17,8 @@ Foram adicionadas as seguintes funcionalidades:
 
 ### Funcionalidades
 
-• Ao iniciar a aplicação, o código puxa uma determinada quantidade de imagens;
+• Ao iniciar a aplicação, o código puxa uma determinada quantidade de imagens
+
 • Ao clicar em um determinado botão, ele carrega mais imagens
 
 # Layout

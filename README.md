@@ -17,9 +17,13 @@ Foram adicionadas as seguintes funcionalidades:
 
 ### Funcionalidades
 
-• Ao iniciar a aplicação, o código puxa uma determinada quantidade de imagens
+• Ao iniciar a aplicação, o código puxa uma determinada quantidade de imagens da API
 
-• Ao clicar em um determinado botão, ele carrega mais imagens
+• Ao clicar em no botão "carregar mais imagens" ele carrega mais imagens
+
+• Quando uma imagem é clicada o programa abre um modal com a imagem
+
+• Ao clicar fora da imagem ou no icone de "X" o modal fecha
 
 # Layout
 
